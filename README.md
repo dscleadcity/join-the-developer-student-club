@@ -18,4 +18,5 @@ Gain project-based work experience by identifying and solving local businessesâ€
 
 > Do you have a desire to do great things, and perhaps even change the world? Join the Developer Student Club today.
 
+* [Follow **@dscleadcity** on Instagram](https://www.instagram.com/dscleadcity/)  
 * [Follow **@dscleadcity** on Twitter](https://twitter.com/dscleadcity)  
