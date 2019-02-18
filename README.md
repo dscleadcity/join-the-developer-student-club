@@ -13,3 +13,9 @@ Technical skills: Throughout the program, students would be introduced to mobile
 Opportunity to acquire and demonstrate soft skills through leadership, team management, budget management, communication and project management skills.  
 
 Gain project-based work experience by identifying and solving local businesses’ problems using technology.  
+
+- - -
+
+> Do you have a desire to do great things, and perhaps even change the world? Join the Developer Student Club today.
+
+* [Follow **@dscleadcity** on Twitter](https://twitter.com/dscleadcity)  
