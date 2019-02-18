@@ -5,3 +5,8 @@ DSC is a Google Developers program for university students, designed to help the
 This is part of Google’s commitment to provide mobile developer training to 100,000 Africans to develop world-class apps in the next 5 years. The Developer Student Clubs (DSC) is a grassroots channel through which we provide development skills for students, towards employability. The program invites students enrolled in African universities to act as “agent of change” on their campus(es).  
 
 DSCs follow a model of peer-to-peer learning. We select student Leads who train other students, help them apply the skills by developing solutions for local businesses, and host showcases for students to present their prototypes/solutions. This not only upskills current developers, but also inspires new developers thus realizing rapid scale.  
+
+## DSC MEMBERSHIP BENEFITS
+
+Technical skills: Throughout the program, students would be introduced to mobile app development courses developed by Google developers and other knowledgeable practitioners.
+
