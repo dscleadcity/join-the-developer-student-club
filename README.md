@@ -11,3 +11,5 @@ DSCs follow a model of peer-to-peer learning. We select student Leads who train 
 Technical skills: Throughout the program, students would be introduced to mobile app development courses developed by Google developers and other knowledgeable practitioners.  
 
 Opportunity to acquire and demonstrate soft skills through leadership, team management, budget management, communication and project management skills.  
+
+Gain project-based work experience by identifying and solving local businesses’ problems using technology.  
